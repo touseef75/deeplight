@@ -1,0 +1,53 @@
+.image{
+    background-image: url(./img/front\ page.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    width: 100%;
+}
+.content{
+    text-align: center;
+    font-style: italic;
+    font-size: 2rem;
+    font-weight: bolder;
+}
+a{
+    text-decoration: none;
+    color: red;
+    margin-top: 25px;
+    font-weight: bold;
+    /* border-bottom: 2px solid red; */
+}
+h3{
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+.bga{
+    background-color: transparent;
+}
+/* .link{
+    font-size: 1.5rem;
+    color: black;
+
+
+} */
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.font-size{
+    font-size: 1.2rem;
+    color: grey;
+    /* width: 80%;
+    margin: auto; */
+}
+.borde{
+    border-bottom: 2px solid red;
+    width: 20%;
+    margin: auto;
+    margin-top: 20px;
+}
+span{
+    color: grey;
+}

@@ -15,8 +15,8 @@ a{
     text-decoration: none;
     color: red;
     margin-top: 25px;
-    font-weight: bold;
     /* border-bottom: 2px solid red; */
+    font-weight: bold;
 }
 h3{
     margin-bottom: 30px;
@@ -67,4 +67,28 @@ span{
     
     width: 60%;
     margin: auto;
+}
+/* end */
+.li{
+    background-image: url(./img/food8.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 120vh;
+}
+.ma{
+    color: rgb(3, 3, 3);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+    font-weight: bolder;
+}
+.w{
+    width: 30%;
+    margin: auto;
+}
+.logo{
+    font: 1.5rem;
 }

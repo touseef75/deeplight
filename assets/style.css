@@ -92,3 +92,42 @@ span{
 .logo{
     font: 1.5rem;
 }
+@media screen and (max-width:640px){
+   .simg{
+       width: 90%;
+   }
+   .font-size{
+       font-size: 0.9rem;
+       margin-right: 3vh;
+   } 
+   .smar{
+       margin-right: 4vh;
+
+   }
+   #smars{
+       margin-right: 23vh;
+
+   }
+   .smg{
+       width: 23%;
+       margin-left: 17vh;
+
+   }
+   .sfon{
+       font-size: 0.3rem;
+
+   }
+   .smg2{
+       width: 85%;
+
+   }
+   .s2s{
+       margin-left: -1vh;
+       font-size: 0.3rem;
+   }.smg3{
+       width: 45vh;
+   }
+   .logo{
+       display: none;
+   }
+}
